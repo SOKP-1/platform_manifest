@@ -70,6 +70,7 @@
   <project path="packages/apps/GPSOptimizer" name="android_packages_apps_GPSOptimizer" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/CMAccount" name="packages_apps_CMAccount" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/SonicPapers" name="android_packages_apps_SonicPapers" remote="sokp" revision="sokp-kk" />
+  <project path="packages/apps/SOKPStats" name="android_packages_apps_SOKPStats" remote="sokp" revision="sokp-kk" />
   <project path="system/core" name="android_system_core" remote="sokp" revision="sokp-kk" />
   <!-- SOKP repo ends -->
   
