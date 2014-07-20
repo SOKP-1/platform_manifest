@@ -63,7 +63,6 @@
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="sokp" revision="sokp-kk" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="sokp" revision="sokp-kk" />
   <project path="system/media" name="system_media" remote="sokp" revision="sokp-kk" />
-  <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/ScreenRecorder" name="android_packages_apps_ScreenRecorder" remote="sokp" revision="sokp-kk" />
   <project path="vendor/sokp" name="vendor_sokp" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="sokp" revision="sokp-kk" />
