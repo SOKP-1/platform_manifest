@@ -72,6 +72,7 @@
   <project path="packages/apps/SOKPStats" name="android_packages_apps_SOKPStats" remote="sokp" revision="sokp-kk" />
   <project path="system/core" name="android_system_core" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/EOSWeather" name="packages_apps_EOSWeather" remote="sokp" revision="sokp-kk" />
+  <project path="packages/apps/AndroidKernelTweaker" name="android_kernel_tweaker" remote="sokp" revision="sokp-kk" />
   <!-- SOKP repo ends -->
   
   <!-- CM AND AOSP Repo Starts -->
